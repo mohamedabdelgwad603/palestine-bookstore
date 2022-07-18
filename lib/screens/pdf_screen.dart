@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart';
 
-import 'drawer_widget.dart';
+import '../widgets/drawer_widget.dart';
 
 class pdfScreen extends StatelessWidget {
   final String pdfUrl;

@@ -1,8 +1,7 @@
-import 'package:bookstore/data.dart';
+import 'package:bookstore/data/data.dart';
 import 'package:flutter/material.dart';
-
-import 'main.dart';
-import 'pdf_screen.dart';
+import '../screens/home_screen.dart';
+import '../screens/pdf_screen.dart';
 
 class drawerScreen extends StatelessWidget {
   @override
